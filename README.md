@@ -11,7 +11,7 @@ Juce owns the main method and starts the application.
 The Juce project is based on the standard Juce Audio Application template for standalone Juce applications.
 
 I tested this on a MacOS, you can simply add another exporter for iOS in the Projucer.
-On iOS. On iOS you use UIHostingController.
+On iOS you use UIHostingController.
 
 SwiftUI View is only available on MacOS and iOS.
 
